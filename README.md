@@ -1,4 +1,5 @@
 Simon Says Game 🎮
+
 A fun and interactive Simon Says memory game built using HTML, CSS, and JavaScript. Test your memory by following the color sequence and see how far you can go!
 
 🚀 Features
